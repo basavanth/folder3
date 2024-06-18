@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.uhitgtil.Scanner;
 class Calculator {
 public double squareRoot(double num) {
 return Math.sqrt(num);
